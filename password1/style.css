@@ -1,0 +1,135 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: #f3f4f6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.password-reset {
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+    line-height: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #000000;
+}
+
+.password-reset h1 {
+    font-size: 40px;
+    color: #4F5665 ;
+}
+
+.password-reset p {
+    color: #4F5665;
+}
+
+.password-reset form {
+    margin-top: 60px;
+}
+
+.password-reset input[type="email"] {
+    width: 40%;
+    padding: 20px;
+    margin-bottom: 50px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.password-reset button[type="submit"] {
+    background-color: #f5a623;
+    color: rgb(12, 11, 11);
+    padding: 18px 40px 18px 40px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.password-reset button[type="submit"]:hover {
+    background-color: #e89b0c;
+}
+
+.resend {
+    margin-top: 20px;
+}
+
+.resend p {
+    color: #4F5665;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.resend-button {
+    background-color: #6A4029;
+    color: white;
+    padding: 20px 120px 20px 120px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.resend-button:hover {
+    background-color: #130e0b;
+}
+
+.timer {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
+.judul {
+    width: 70%;
+    
+  }
+  .judul1 {
+    padding: 50px 0px 0px 200px;
+    display: flex;
+    position: relative;
+    align-items: flex-end;
+    width: 84%;
+  }
+  .judul2 {
+    padding: 0px 100px 0px 0px;
+  }
+  .top-star {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+  }
+  
+  .logo-cofee {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+    font-weight: 500;
+    padding: 15px 0px 0px 0px;
+  }
+  
+  .right-footer {
+    display: flex;
+    gap: 60px;
+  }
+  .judul3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .judul3 a {
+    text-decoration: none;
+    color: #000000;
+  }
+
+
+  
